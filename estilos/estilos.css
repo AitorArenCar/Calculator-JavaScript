@@ -1,0 +1,70 @@
+baba{
+background-color:black;
+}
+.numero{
+    width: 60px;
+    height: 60px;
+    background-color: #3c3c3c;
+    color: #FFF;
+    border-radius: 12px;
+    font-size: 25px;
+}
+.numero:hover{
+    background-color: #242424;
+}
+
+.operacion{
+    width: 60px;
+    height: 60px;
+    background-color: #222446;
+    color: #FFF;
+    border-radius: 12px;
+    font-size: 30px;
+}
+
+.operacion:hover{
+    background-color: #12131f;
+}
+
+.borrar{
+    width: 60px;
+    height: 60px;
+    background-color: aqua;
+    border-radius: 12px;
+    font-size: 30px;
+}
+.borrar:hover{
+    background-color: #008d8d;
+}
+
+.igual{
+    width: 120px;
+    height: 60px;
+    background-color: aqua;
+    border-radius: 12px;
+    font-size: 40px;
+}
+
+.igual:hover{
+    background-color: #008d8d;
+}
+
+table{
+    margin: auto;
+    width: 15%;
+    border: solid black 1px;
+    background-color: #202020;
+    border-radius: 12px;
+}
+
+.color_display{
+    height: 30px;
+    background-color: #202020;
+    border: solid #FFF 2px;
+    font: "Space Age";
+    color: #FFF;
+    font-size: 18px;
+    text-align: right;
+    padding: 5px;
+    border-radius: 12px;
+}

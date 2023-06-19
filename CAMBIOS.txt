@@ -1,0 +1,7 @@
+Agregué varios botones con diferentes funcionalidades: 
+    AC: Borra todos los datos. (Resetea las variables a los valores iniciales)
+    CE: Borra el último caracter introducido. (Usando split para eliminar la cifra más a la derecha o en posición -1)
+    x^: Eleva el último valor introducido al siguiente.
+    , : Agrega una coma al número en caso de querer usar decimales.
+    -Después de pulsar "=" puedes seguir operando, usando el resultado cómo valor a operar.
+    -Además de agregar división y multiplicación, arreglar errores varios y hacer un CSS más bonito.
