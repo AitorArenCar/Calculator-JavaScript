@@ -33,7 +33,3 @@ Please note that this calculator does not support complex operations or parenthe
 The calculator interface is styled using CSS. The `estilos.css` file defines the styles for various calculator components such as buttons, display area, and overall layout.
 
 Feel free to modify the CSS styles in the `estilos.css` file to customize the appearance of the calculator according to your preferences.
-
----
-
-Now you have a README file that provides an overview of the project structure, usage instructions, and functionality of your calculator project.
